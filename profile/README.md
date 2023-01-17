@@ -1,4 +1,4 @@
-## Kindem (Kids Need Delightful English Mentor)
+<img src="https://github.com/Kindem-App/.github/blob/main/preview.jpg" >
 
 ## Daftar Isi
   - [Daftar Isi](#daftar-isi)
