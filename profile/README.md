@@ -20,4 +20,4 @@
 Kindem memiliki seluruh hak kekayaan intelektual yang terdapat dalam Materi dan Situs. Anda tidak diperkenankan untuk menyalin, mendistribusikan, menerbitkan, menyebarkan dan/atau menjual bagian atau seluruh dari Materi atau Situs tanpa persetujuan tertulis terlebih dahulu dari Kindem.
 
 ## Copyright
-2022 [Abdul Rahman Saleh](https://www.linkedin.com/in/abdul-rahman-saleh-714120217/) & [Yoga Meleniawan Pamungkas](https://www.linked.in/id/yogameleniawan)
+2022 [Abdul Rahman Saleh](https://www.linkedin.com/in/abdul-rahman-saleh-714120217/) & [Yoga Meleniawan Pamungkas](https://www.linkedin.com/in/yogameleniawan)
