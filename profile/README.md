@@ -15,9 +15,9 @@
 <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="40"></a>
 <a href="https://flutter.dev/"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/1_5-aoK8IBmXve5whBQM90GA.png" width="40"></a>
 
-## Hak Kekayaan Intelektual
+### Hak Kekayaan Intelektual
 
 Kindem memiliki seluruh hak kekayaan intelektual yang terdapat dalam Materi dan Aplikasi. Anda tidak diperkenankan untuk menyalin, mendistribusikan, menerbitkan, menyebarkan dan/atau menjual bagian atau seluruh dari Materi atau Aplikasi tanpa persetujuan tertulis terlebih dahulu dari Kindem.
 
-## Copyright
+### Copyright
 2022 [Abdul Rahman Saleh](https://www.linkedin.com/in/abdul-rahman-saleh-714120217/) & [Yoga Meleniawan Pamungkas](https://www.linkedin.com/in/yogameleniawan)
